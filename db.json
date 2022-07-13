@@ -3,7 +3,7 @@
     {
       "productName": "Redmi Note 9S",
       "category": "Gadgets",
-      "freshness": "Brand New",
+      "freshness": "Second Hand",
       "price": 300,
       "comment": "Brand new xiaomi, latest version",
       "date": "2022-06-30T16:00:00.000Z",
@@ -17,6 +17,42 @@
       "comment": "good quality",
       "date": "2022-07-14T16:00:00.000Z",
       "id": 4
+    },
+    {
+      "productName": "Talbos",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 1.5,
+      "comment": "makulay ang buhay",
+      "date": "2022-07-05T16:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 2,
+      "comment": "yummy",
+      "date": "2022-07-09T16:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Carrots",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 0.45,
+      "comment": "hey",
+      "date": "2022-07-04T16:00:00.000Z",
+      "id": 7
+    },
+    {
+      "productName": "Bayabas",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 1.6,
+      "comment": "favorite nila",
+      "date": "2022-07-01T16:00:00.000Z",
+      "id": 8
     }
   ],
   "comments": [
